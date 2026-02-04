@@ -1,0 +1,7 @@
+python-dotenv
+neo4j
+pandas
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+flask
